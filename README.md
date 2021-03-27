@@ -1,4 +1,5 @@
-# superssh
-使用go语言开发的基于ssh协议的服务器批量管理工具
+# helmsman
 
-基于ssh协议
+使用gin开发的基于ssh协议的服务器批量管理工具  
+前端使用LayUi
+
