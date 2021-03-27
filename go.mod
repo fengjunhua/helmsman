@@ -1,4 +1,4 @@
-module github.com/fengjunhua/superssh
+module github.com/fengjunhua/helmsman
 
 go 1.15
 
